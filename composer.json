@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "symfony/var-dumper": "^4.3"
+    },
+    "require": {
+        "sapiet/profiler": "^1.0"
+    }
+}
